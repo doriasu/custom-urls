@@ -1,5 +1,11 @@
-# Vue 3 + TypeScript + Vite
+# custom-urls
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+スマホだと bookmarklet による url 生成用の etc をホーム画面に設置することが不可能なため、それを迂回するためのアプリケーションです。
+scrapbox 向けの利用を想定しています。
 
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
+# 開発ロードマップ
+
+- 一日一回押す用のボタンを作る
+- deploy 周りを整える
+- 一ヶ月に一回押す用のボタンを作る(サマリーのやつ)
+- テンプレートを使えるように組み替える
